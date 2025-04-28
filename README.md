@@ -7,6 +7,18 @@ So, this fivem verify system was made to ensure losers stay out of your fivem se
 
 # How To Install?
 
+put this into your sql
+CREATE TABLE IF NOT EXISTS users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    identifier VARCHAR(100) NOT NULL UNIQUE,
+    discord_id VARCHAR(100) NOT NULL,
+    fivem_id INT NOT NULL,
+    ip_address VARCHAR(100) NOT NULL,
+);
+
+
+
+ 
 Go to the sconfig.lua
 
 Config.BotToken = 'ReplaceWithYourToken'
