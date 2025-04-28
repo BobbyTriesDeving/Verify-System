@@ -3,8 +3,7 @@
 
 So, this fivem verify system was made to ensure losers stay out of your fivem server this is a STANDALONE script
 
-
-
+/link (ingame command)
 
 # How To Install?
 
