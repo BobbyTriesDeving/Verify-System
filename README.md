@@ -18,7 +18,11 @@ Config.RoleId = 'YourRoleID'
 
  
  
- 
+# Dependencies 
+oxmysql
+ox_lib
+
+
  
  
  did chatgpt make this kinda this is my first time every trying to use the discord api to ofc chatgpt helped <3
