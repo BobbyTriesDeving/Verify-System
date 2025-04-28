@@ -1,7 +1,7 @@
 # BobbyTriesDeving
 
 
-So, this fivem verify system was made to ensure losers stay out of your fivem server this is a #STANDALONE script
+So, this fivem verify system was made to ensure losers stay out of your fivem server this is a # STANDALONE script
 
 
 
@@ -15,4 +15,10 @@ Config.GuildId = 'YourGuildID'
 Config.RoleId = 'YourRoleID'
 
 
--# did chatgpt make this kinda this is my first time every trying to use the discord api to ofc chatgpt helped <3
+
+ 
+ 
+ 
+ 
+ 
+ did chatgpt make this kinda this is my first time every trying to use the discord api to ofc chatgpt helped <3
