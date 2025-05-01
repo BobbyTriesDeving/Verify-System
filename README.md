@@ -5,6 +5,10 @@ So, this fivem verify system was made to ensure losers stay out of your fivem se
 
 /link (ingame command)
 
+# BOBBYS WHATS THIS NEW FILE THE SCRIPT MADE?? 
+
+the embed_sent.flag is to ensure the script doesnt send the Verify required embed 2 times
+
 # How To Install?
 
 put this into your sql
@@ -24,7 +28,8 @@ Go to the sconfig.lua
 Config.BotToken = 'ReplaceWithYourToken'
 Config.GuildId = 'YourGuildID'
 Config.RoleId = 'YourRoleID'
-
+Config.Webhook = the embed that sends when you start the script for the first time
+Config.verifywebhook = the embed that sends when a player verifies
 
 
  
@@ -34,6 +39,3 @@ oxmysql
 ox_lib
 
 
- 
- 
- did chatgpt make this kinda this is my first time every trying to use the discord api to ofc chatgpt helped <3
