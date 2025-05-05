@@ -1,6 +1,10 @@
 # BobbyTriesDeving
 
 
+# MUST READ
+ok so for the webhook to send you need to run a bot the source code will be in https://github.com/BobbyTriesDeving/verifybot
+fill the bottoken and webhook or whatever with the CORRECT info
+
 So, this fivem verify system was made to ensure losers stay out of your fivem server this is a STANDALONE script
 
 /link (ingame command)
